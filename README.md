@@ -15,9 +15,13 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-## GitHub Stats
-![Ziaul Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziaulkamal&show_icons=true&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=ziaulkamal&color=blue)
-
-## Languages and Tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziaulkamal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ziaulkamal&show_icons=true&theme=radical" alt="Ziaul Kamal's GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziaulkamal&layout=compact&theme=radical" alt="Top Languages">
+    </td>
+  </tr>
+</table>
