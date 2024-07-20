@@ -16,4 +16,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## GitHub Stats
-![Ziaul Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziaulkamal&show_icons=true)
+![Ziaul Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziaulkamal&show_icons=true&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=ziaulkamal&color=blue)
+
+## Languages and Tools
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziaulkamal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
