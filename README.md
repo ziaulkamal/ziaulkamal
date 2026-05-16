@@ -49,13 +49,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ziaulkamal&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziaulkamal&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ziaulkamal&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
@@ -69,7 +62,7 @@
 Got a project in mind? Let's build something great together!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/ziaulkamal)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziaul_kamal@example.com)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziaulkamal1109@gmail.com)
 
 </div>
 
